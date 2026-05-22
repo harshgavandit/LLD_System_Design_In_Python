@@ -1,23 +1,48 @@
-## Low-Level Design in Python
+# Low-Level Design in Python
 
-This repository is a **practical course on Low-Level Design (LLD) in Python**, focused on applying object-oriented principles and design patterns through small, hands-on examples.
+This repository contains my learning journey and hands-on implementations of **Low-Level Design (LLD) concepts in Python**. The main focus is on understanding how to convert real-world requirements into structured class designs using **Object-Oriented Programming (OOP)** concepts and design principles.
 
-### What you’ll learn
-- **OOP recap**: Classes, objects, inheritance, composition, interfaces (via abstract base classes), and more.
-- **UML basics**: Association, aggregation, composition, inheritance, and dependency.
-- **Clean low-level design**: How to translate requirements into classes, methods, and interactions.
-- **Pythonic implementation**: How common design ideas are expressed idiomatically in Python.
+## What this repository includes
 
-Additional modules, examples, and patterns will be added over time as the course evolves.
+- OOP concepts and their implementation in Python
+- Class relationships and UML concepts
+- Low-Level Design fundamentals
+- Design thinking and problem breakdown
+- Practical examples and coding exercises
+- Python-based implementation of system design concepts
 
-### Prerequisites
-- Basic knowledge of:
-  - Python syntax (functions, modules, imports)
-  - Classes, objects, and methods
+## Topics Covered
 
-### Goals of the course
-- **Build intuition** for designing classes and interactions before coding.
-- **Develop a design vocabulary** (OOP, UML, patterns) you can use in interviews and real projects.
-- **Bridge the gap** between high-level requirements and concrete Python code.
+- Classes and Objects
+- Inheritance
+- Encapsulation
+- Polymorphism
+- Abstraction
+- Association
+- Aggregation
+- Composition
+- Dependency
+- SOLID Principles
+- Design Patterns
+- Real-world LLD examples
 
-As the course grows, this README will be updated with new sections, patterns, and exercises.
+## Purpose
+
+This repository is created to:
+
+- Strengthen my understanding of Low-Level Design concepts
+- Practice writing clean and maintainable code
+- Improve problem-solving and design skills
+- Prepare for technical interviews and real-world projects
+
+## Prerequisites
+
+Basic understanding of:
+
+- Python fundamentals
+- Functions and modules
+- Classes and objects
+
+## Note
+
+This repository will continue to grow as I learn and explore more LLD concepts, patterns, and practical system design examples.
