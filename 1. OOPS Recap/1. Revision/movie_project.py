@@ -38,7 +38,7 @@ class Movie:
         print(f"Total booked = {self.booked_seats}\n")
 
 
-movie = Movie("Krish", 100, 499)
+movie = Movie("Harsh", 100, 499)
 movie.show_status()
 movie.book_tickets(70)
 

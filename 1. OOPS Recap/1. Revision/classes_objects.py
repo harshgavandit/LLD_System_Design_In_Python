@@ -13,5 +13,5 @@ class Student:
         return self.age
 
 
-s1 = Student("Anirudh", 22, "Male")
+s1 = Student("Harsh", 22, "Male")
 print(s1.get_age())

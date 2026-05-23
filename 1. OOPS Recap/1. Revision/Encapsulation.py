@@ -30,7 +30,7 @@ class Bank:
             print(f"Amount withdrawn, current balance = {self.__balance}\n")
 
 
-acc = Bank("Anirudh", 1000)
+acc = Bank("Harsh", 1000)
 acc.deposit(1000)
 acc.get_balance()
 acc.withdraw(500)

@@ -49,5 +49,5 @@ cs_dept.show_students()
 del cs_dept  # Department deleted
 
 # Students are still alive and can be used
-print(f"\nStudent still exists: {student1.get_name()}")
+print(f"\nStudent still exists: {student2.get_name()}")
 # Output: Student still exists: Rahul
